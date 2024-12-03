@@ -107,7 +107,7 @@ export default function TodoApp() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 p-4">
+    <div className="min-h-screen bg-red-100 p-4">
       <div className="max-w-md mx-auto bg-white rounded-lg shadow-lg p-6 sm:p-8 transition-colors">
         <h1 
           className="text-2xl sm:text-3xl font-bold text-gray-800 mb-6 text-center cursor-pointer select-none"
